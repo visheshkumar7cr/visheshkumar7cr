@@ -9,7 +9,7 @@ I'm a passionate and creative Web Developer who loves to turn ideas into beautif
 - 🎨 Adept at translating designs into responsive and interactive websites
 
 ## 🛠️ Tech Stack
-- Frontend: HTML, CSS, JavaScript, R
+- Frontend: HTML, CSS, JavaScript
 - Backend: PHP
 - Tools: Git, VS Code, Figma
 - ## 🌱 Currently Learning
